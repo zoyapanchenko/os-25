@@ -1,0 +1,4 @@
+testdata/alpha/file1.txt
+testdata/gamma/subgamma/start_file.txt
+testdata/alpha/file2.log
+testdata/beta/file1.log

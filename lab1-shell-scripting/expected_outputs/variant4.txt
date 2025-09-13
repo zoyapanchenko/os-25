@@ -1,0 +1,2 @@
+testdata/gamma/subgamma/start_other.log
+testdata/gamma/subgamma/start_file.txt

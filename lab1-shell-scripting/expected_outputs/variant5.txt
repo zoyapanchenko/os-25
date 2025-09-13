@@ -1,0 +1,5 @@
+alpha 2 10
+gamma 2 11
+gamma/subgamma 2 11
+beta 2 19
+testdata 6 40
